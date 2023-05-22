@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-register {
+    width: 400px;
+    background: #CC4331;
+    padding: 30px;
+    margin: auto;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(13, 13, 13);
+    box-shadow: 7px 13px 37px #1B2A35;
+}
+
+.form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    width: 100%;
+    background: #d1d3e6;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #161718;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgba(32, 30, 30, 0.688);
+}
+
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.form-register a {
+    color: rgb(23, 23, 26);
+    text-decoration: none;
+}
+
+.form-register a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.form-register .botons {
+    width: 100%;
+    background: #484444;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border-radius: 5px;
+}
+:link, :visited { cursor: url(puntero.svg), url(puntero.cur), pointer }
